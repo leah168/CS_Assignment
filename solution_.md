@@ -10,5 +10,5 @@ Harvey, J. T., Culvenor, J., Payne, W., Cowley, S., Lawrance, M., Stuart, D., & 
 Ziegler, D. W., Lois, M., Hess, D., Pinilla, J., & Tellez, G. (2005). Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients. Chest, 128(4), 194S.
 
 **Q5: Create one plot from the dataset "istherecorrelation.csv", with DPI=300. The objective is to visualize the data in a way that you consider representative. Include the resulting plot image in the markdown file and add a few lines of interpretation on the data.**
-![]((WO_and_Beer_Consumption.png "Beer consumpution in NL")
+![picture]((WO_and_Beer_Consumption.png "Beer consumpution in NL")
 
